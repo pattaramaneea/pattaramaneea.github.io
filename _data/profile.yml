@@ -1,6 +1,6 @@
 primary_name: "Pattaramanee (Ploy) Arsomngern"
-secondary_name: ""
-navbar_name: "Pattaramanee (Ploy) Arsomngern"
+secondary_name: "ภัทรมณี อาศรมเงิน"
+navbar_name: "Pattaramanee Arsomngern"
 
 positions:
 - name: Senior Machine Learning Engineer
@@ -31,31 +31,44 @@ short_bio: >-
   </p>
 
 portrait_url: /imgs/IMG_3046.JPG
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  # logo: /assets/images/badges/MIT_Social_circle.png
+- name: Vidyasirimedhi Institute of Science and Technology (VISTEC)
+  logo: /assets/images/badges/Logo_vistec.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  # logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Ph.D. in Computer Science, School of Information Science and Technology
+    
+  date: 2019 - 2025
+- name: King Mongkut’s University of Technology Thonburi (KMUTT)
+  logo: /assets/images/badges/perceptra.png
+  position: B.Eng. in Computer Engineering
+  date: 2015 - 2019
 
 experience:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+
+- name: Perceptra
+  logo: /assets/images/badges/Logo_vistec.png
+  position: Machine Learning Researcher
+  date: Jul 2025 - Oct 2025
+
+- name: VISTEC
+  logo: /assets/images/badges/Logo_vistec.png
+  position: PhD Student Researcher
+  date: Aug 2019 - Sep 2025
+
+- name: Nanyang Technological University
+  logo: /assets/images/badges/ntu_logo.png
   position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+  date: May 2018 - Aug 2018
 
 awards:
 - name: Award Name 2
-  date: 2024
+  date: 2025
 - name: Award Name 1 
-  date: 2021
+  date: 2023
 - name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+  date: 2019
+- name: A quick brown fox jumps over the lazy dog and runs away award
+  date: 2019
