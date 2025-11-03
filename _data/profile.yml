@@ -1,5 +1,5 @@
 primary_name: "Pattaramanee (Ploy) Arsomngern"
-secondary_name: "ภัทรมณี อาศรมเงิน"
+secondary_name: ""
 navbar_name: "Pattaramanee Arsomngern"
 
 positions:
@@ -49,7 +49,7 @@ education:
 experience:
 
 - name: Perceptra
-  logo: /assets/images/badges/Logo_vistec.png
+  logo: /assets/images/badges/perceptra.png
   position: Machine Learning Researcher
   date: Jul 2025 - Oct 2025
 
@@ -59,16 +59,17 @@ experience:
   date: Aug 2019 - Sep 2025
 
 - name: Nanyang Technological University
-  logo: /assets/images/badges/ntu_logo.png
+  logo: /assets/images/badges/ntu_logo.svg
   position: Research Intern
   date: May 2018 - Aug 2018
 
 awards:
-- name: Award Name 2
+- name: Reviewer for CVPR, NeurIPS ICCV, CVPRW, TPAMI, IEEE Access 
+- name: ICCV Broadening Participation grants 
   date: 2025
-- name: Award Name 1 
+- name: CVPR DEI grants
   date: 2023
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: VISTEC Scholarship and additional grants
   date: 2019
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: 2nd prize at National Software Contest
   date: 2019
