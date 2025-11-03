@@ -1,86 +1,81 @@
+# academic-homepage
+
+![Preview](assets/images/etc/preview.png)
+
+[![pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
+[![Hits](https://hits.sh/github.com/luost26/academic-homepage.svg?view=today-total)](https://hits.sh/github.com/luost26/academic-homepage/)
+[![GitHub stars](https://img.shields.io/github/stars/luost26/academic-homepage)](https://github.com/luost26/academic-homepage)
+[![GitHub forks](https://img.shields.io/github/forks/luost26/academic-homepage)](https://github.com/luost26/academic-homepage/forks)
+<!--[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)](https://validator.nu/?doc=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)-->
+
+A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost.me/academic-homepage/) to see the demo.
+
+## User Community
+
+[🏡](https://luost.me/)
+[:star:](https://cch1999.github.io/)
+[:star:](https://kyrrego.github.io/)
+[:star:](https://ced3-han.github.io/)
+[:star:](https://lihengchen.com/)
+[:star:](https://hpwang-whu.github.io/)
+[:star:](https://zhang-yingyi.github.io/)
+[:star:](https://wby24.github.io/)
+[:star:](https://pengfeixu.com/)
+[:star:](https://boqiuphd.github.io/)
+[:star:](https://www.huabing.li/)
+[:star:](https://xiecuiying.github.io/)
+[:star:](https://hannyang.github.io/)
+[:star:](https://king-play.github.io/)
+[🤖](https://andrewcwlee.github.io)
+[:star:](https://laiyao1.github.io)
+[🌜](https://tmsultan.github.io)
+[🚀](https://zaxguo.github.io)
+[:gemini:](https://hongyang-du.github.io)
+[🇻‍🇳](https://thuanz123.github.io)
+[🧬](https://gdalba.github.io/)
+[🇭🇰](https://yhhan.com/)
+[🌔](https://chen-huaneng.github.io/academic)
+
+:hugs: Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
+
+### Acknowledgements
+
+The improvements of this template have been inspired by the customizations and feedbacks from the following users:
+- :star: [onethousandwu.com](https://onethousandwu.com/): increased corner radius [[Repo]](https://github.com/oneThousand1000/oneThousand1000.github.io)
+- :star: [shiwonkim.github.io](https://shiwonkim.github.io/): two-column main page layout [[Repo]](https://github.com/shiwonkim/shiwonkim.github.io)
+- :star: [yqxie99.github.io](https://yqxie99.github.io/): blog feature [[Repo]](https://github.com/YQXie99/YQXie99.github.io/tree/feat/add_blog_page)
+
+## Need Help?
+
+If you run into **any** issues while using this template, or have suggestions for improvements, please don't hesitate to create an issue [here](https://github.com/luost26/academic-homepage/issues/new).
+
+### FAQs
+
+- [Need blogging feature?](https://github.com/luost26/academic-homepage/issues/13#issuecomment-2646371324)
+- [How to show citation count for papers?](https://github.com/luost26/academic-homepage/issues/29#issuecomment-3222496187)
 
 
-<!-- <img src="imgs/IMG_0256_2.jpg" alt="drawing" width="200"/>
- -->
-## Pattaramanee Arsomngern (Ploy)
-ภัทรมณี อาศรมเงิน (พลอย)
+## Getting Started
 
-Ph.D. student, School of Information Science and Technology (VISTEC), Thailand
+1. First, click the "Use this template" button to create a new repository. The name of the repository should be `<your-github-username>.github.io` (click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) to learn more about naming a GitHub Pages repository).
 
-E-mail: pattaramanee.a_s19 at vistec dot ac dot th
+### Running Locally (Debug & Preview)
 
-[GitHub](https://github.com/pattaramaneea) \| [Google Scholar](https://scholar.google.co.th/citations?user=xc-r7U8AAAAJ&hl=en) \| [DBLP](https://dblp.org/pid/256/8420.html) \| [Linkedin](https://www.linkedin.com/in/pattaramanee-arsomngern-053383167/?originalSubdomain=th)| [CV](https://vistec-my.sharepoint.com/:b:/g/personal/pattaramanee_a_s19_vistec_ac_th/EcIx2eDwQIxHl6kPaL3y4UUBqksv_YAhpup9qMsHyb3VoA?e=kscgeP)
+2. Follow the **step 1** and **step 2** of the instruction [here](https://jekyllrb.com/docs/) to install prerequisites and jekyll.
 
-## About
-I am currently a 4th year CS Ph.D. candidate from the School of Information Science and Technology (VISTEC), Thailand. I am under the supervision of Prof. [Supasorn Suwajanakorn](http://www.supasorn.com/) as a part of members in [Vision & Learning Lab (VLL)](https://vistec.ist/vision) and Prof. [Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=en) as a part of members in [SCAlable Data System lab (SCADS)](https://vistec.ist/scads) 
-and a team leader of Retrieval & Representation Learning research group.
-I also collaborate with Asst. Prof. Dr. [Cheng Long](https://personal.ntu.edu.sg/c.long/) from Nanyang Technological University (NTU), Singapore. I was granted 27,000 USD Thai royal scholarship to conduct research overseas, thus I am seeking for a research team to join as an intern or a visiting Ph.D. student in 2023-2024.
+3. Clone your forked repository to your local machine.
 
-## Bio
-I received the B.Eng. degree in Computer engineering (Top 5% of a class, first-class honors) from KMUTT, Thailand in 2019. My undergrad's final project is about anomaly detection on animal medical images, under the supervision of Prof. [Phond Phunchongharn](https://www.cpe.kmutt.ac.th/en/staff-detail/Phond). I did an internship during undergrad as a research assistant at Computer Networks and Communications Lab (CNCL)@NTU, and Chulabhorn Graduate Institute, Thailand.
+4. Run the following command in the root directory of the repository:
 
-## Research
-My research interests are about representation learning in computer vision (i.e., images and point clouds), graphs, and sets. Specifically, I have extensive experience in designing pre-training objectives for given specific downstream tasks (e.g., semantic segmentation, object detection, classification, or retrieval).
+   ```bash
+   bundle exec jekyll serve
+   ```
 
-### Peer-reviewed articles 
-* **Learning Geometric-aware Properties in 2D Representation Using Lightweight CAD Models, or Zero Real 3D Pairs**
+5. Browse to the displayed URL to see the website.
 
-  **P Arsomngern**, S Nutanong, S Suwajanakorn 
-  
-  *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Arsomngern_Learning_Geometric-Aware_Properties_in_2D_Representation_Using_Lightweight_CAD_Models_CVPR_2023_paper.html) [[project page]](https://geoaware2drepusingcad.github.io/) <span style="color: red">(CORE A*)</span>
-  
-  * Introducing a new way to learn a visual representation for better solving 2D Indoor Scene understanding tasks (i.e., semantic segmentation, object detection, and instance segmentation). This project introduces a novel technique to pre-train such a model that could given discriminative and useful visual and geometric prior for our desired downstream task without relying on pre-training on limited 3D indoor scenes as in prior works.
+### Deploying to GitHub Pages
 
-* **Towards Pointsets Representation Learning via Self-Supervised Learning and Set Augmentation**
+2. Go to the repository settings and enable GitHub Pages. Detailed instructions can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
-  **P Arsomngern**, C Long, S Suwajanakorn, S Nutanong
-
-  *In IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022* [[paper]](https://ieeexplore.ieee.org/abstract/document/9665285/) [[code]](https://github.com/vistec-AI/WSSET) <span style="color: red">(IF: 24.314)</span>
-
-* **Self-Supervised Deep Metric Learning for Pointsets**
-
-  **P Arsomngern**, C Long, S Suwajanakorn, S Nutanong
-
-  *In IEEE International Conference on Data Engineering (**ICDE**), 2021* [[paper]](https://ieeexplore.ieee.org/abstract/document/9458827) [[code]](https://github.com/vistec-AI/WSSET) <span style="color: red">(CORE A*)</span>
-
-* **Computer-aided diagnosis for lung lesion in companion animals from x-ray images using deep learning techniques**
-
-  **P Arsomngern**, N Numcharoenpinij, J Piriyataravet, W Teerapan, W Hinthong, P Phunchongharn
-
-  *In IEEE International Conference on Awareness Science and Technology (iCAST), 2019* [[paper]](https://ieeexplore.ieee.org/abstract/document/8923126)
-
-  * Pet-X got 2nd prize (without first prize) at [Thailand National Software Contest (NSC)](http://fic.nectec.or.th/nsc21_Decisions), 2019, under the "Applications for science and technologies" category.
-
-### Ongoing projects
-
-* **Heterogeneous Graph Representation Learning**
-
-  (P Arsomngern as a co-author)
- 
-  * Exploring an alternative method to self-discrimination learning the representation based on augmented heterogeneous graph structures.
-
-* **Deep Fake Video Retrieval**
-
-  (P Arsomngern as a co-author)
-
-## Academic Services
-* Journal invited reviewer: IEEE TPAMI
-
-## Technical Skills
-### Programming languages
-* Python (professional)
-* SQL, NoSQL, JavaScript, CSS, PHP, Java, C#, R (limited)
-
-### Frameworks, tools and libraries
-* PyTorch, Tensorflow2.X, Keras, PyTorch geometric, Tensorboard, matplotlib, numpy, scikit-learn, git, Linux (professional)
-* Node.js, React.js, Unity, Google Cloud Platform (limited)
-
-## Languages
-* Thai (Native)
-* English (CU-TEP 83/120 (TOEFL iBT equivalent, CEFR B2))
-* Japanese (JLPT N2)
-
-
-
-
+3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
 
