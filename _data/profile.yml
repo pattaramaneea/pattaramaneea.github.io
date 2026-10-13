@@ -3,32 +3,26 @@ secondary_name: ""
 navbar_name: "Pattaramanee Arsomngern"
 
 positions:
-- name: Senior Machine Learning Engineer
+- name: PhD, Senior Machine Learning Engineer
 - name: Looloo Technology
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/looloo-technology.png
 
 
 email: "pattaramaneea@gmail.com"
-cv_link: link-to-your-cv-file
 gscholar: xc-r7U8AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: pattaramaneea
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: pattaramanee-arsomngern-053383167
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-  </p>
+  Hi, I’m Ploy, a machine learning engineer and PhD graduate based in Bangkok, Thailand. My research interests include computer vision, representation learning, and multimodal learning. More recently, my work has focused on natural language processing for medical applications. I completed my PhD in Computer Science at VISTEC, where I was advised by <a href="https://www.supasorn.com/" target="_blank">Prof. Supasorn Suwajanakorn</a> in the <a href="https://vistec.ist/vision/" target="_blank">Vision and Learning Lab</a> and co-advised by <a href="https://niessnerlab.org/" target="_blank">Prof. Matthias Nießner</a> at TUM and <a href="https://vistec.ac.th/faculty-adjunct-professors-ist-sarana-nutanong" target="_blank">Prof. Sarana Nutanong</a>. My work has appeared in top-tier machine learning and computer vision conferences and journals.
+interests: "Outside of work, I enjoy drawing, petting small animals, playing games, and listening to music. My favorite bands are Morfonica and Ikka Dumb Rock!."
+
 
 portrait_url: /imgs/IMG_3046.JPG
 # portrait_caption: >-
@@ -42,29 +36,34 @@ education:
     
   date: 2019 - 2025
 - name: King Mongkut’s University of Technology Thonburi (KMUTT)
-  logo: /assets/images/badges/perceptra.png
-  position: B.Eng. in Computer Engineering
+  logo: /assets/images/badges/kmutt-square.png
+  position: B.Eng. in Computer Engineering, First Class Honors
   date: 2015 - 2019
 
 experience:
 
-- name: Perceptra
+- name: Looloo Technology, Thailand
+  logo: /assets/images/badges/looloo-technology.png
+  position: Senior Machine Learning Engineer
+  date: Nov 2025 - Present
+
+- name: Perceptra, Thailand
   logo: /assets/images/badges/perceptra.png
   position: Machine Learning Researcher
   date: Jul 2025 - Oct 2025
 
-- name: VISTEC
+- name: VISTEC, Thailand
   logo: /assets/images/badges/Logo_vistec.png
   position: PhD Student Researcher
   date: Aug 2019 - Sep 2025
 
-- name: Nanyang Technological University
+- name: Nanyang Technological University, Singapore
   logo: /assets/images/badges/ntu_logo.svg
   position: Research Intern
   date: May 2018 - Aug 2018
 
 awards:
-- name: Reviewer for CVPR, NeurIPS ICCV, CVPRW, TPAMI, IEEE Access 
+- name: Reviewer for CVPR, NeurIPS, ICCV, AAAI, CVPRW, TPAMI, IEEE Access 
 - name: ICCV Broadening Participation grants 
   date: 2025
 - name: CVPR DEI grants

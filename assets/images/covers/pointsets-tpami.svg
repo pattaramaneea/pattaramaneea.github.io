@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+<rect width="600" height="400" fill="#f8fafc"/>
+<rect x="28" y="28" width="544" height="344" rx="22" fill="#fff" stroke="#d7e0ea" stroke-width="2"/>
+<text x="300" y="65" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#334155">Pointset representation learning</text>
+<g fill="#0ea5e9"><circle cx="100" cy="128" r="8"/><circle cx="129" cy="108" r="8"/><circle cx="157" cy="130" r="8"/><circle cx="121" cy="156" r="8"/><circle cx="161" cy="173" r="8"/><circle cx="91" cy="179" r="8"/></g>
+<g fill="#14b8a6"><circle cx="102" cy="235" r="8"/><circle cx="128" cy="217" r="8"/><circle cx="158" cy="238" r="8"/><circle cx="123" cy="265" r="8"/><circle cx="163" cy="278" r="8"/><circle cx="91" cy="281" r="8"/></g>
+<path d="M190 154 C250 154 250 245 190 245" fill="none" stroke="#64748b" stroke-width="3" stroke-dasharray="8 7"/>
+<path d="M251 198 H330" stroke="#64748b" stroke-width="4"/>
+<path d="m320 186 18 12-18 12" fill="none" stroke="#64748b" stroke-width="4"/>
+<text x="290" y="178" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#475569">PointSwap</text>
+<ellipse cx="436" cy="196" rx="94" ry="112" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+<g fill="#0ea5e9"><circle cx="398" cy="160" r="8"/><circle cx="418" cy="146" r="8"/><circle cx="435" cy="164" r="8"/><circle cx="405" cy="181" r="8"/><circle cx="429" cy="190" r="8"/></g>
+<g fill="#14b8a6"><circle cx="460" cy="215" r="8"/><circle cx="481" cy="199" r="8"/><circle cx="499" cy="220" r="8"/><circle cx="468" cy="239" r="8"/><circle cx="494" cy="251" r="8"/></g>
+<text x="436" y="334" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#334155">Metric space</text>
+</svg>
