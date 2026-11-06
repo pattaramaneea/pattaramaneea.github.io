@@ -6,6 +6,7 @@ cover: /assets/images/covers/ascribe-pipeline.jpg
 pub_pre: ""
 pub: "WiNLP @ EMNLP"
 pub_date: "2026"
+pub_last: '<strong class="text-warning">👑 Best Paper Award</strong>'
 abstract: >-
   ASCRIBE assigns clinical significance to extracted facts before generating Thai SOAP notes. The work also introduces ThaiClinicBench and a synthetic training corpus for evaluating and training clinical summarization systems.
   (Worked as a project leader)
